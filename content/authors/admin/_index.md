@@ -10,11 +10,11 @@ first_name: James
 last_name: Faulkner
 
 # Pronouns (optional)
-pronouns: he/him
+#pronouns: he/him
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: 🍉
 
 # Is this the primary user of the site?
 superuser: true
@@ -27,7 +27,7 @@ role: PhD Researcher | Master of Physics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Uiversity of Cambridge
+  - name: University of Cambridge
     url: https://graphene.cam.ac.uk/
 
 # Social network links
@@ -157,4 +157,4 @@ awards:
   #     Recognized for contributions to scaling laws in deep learning.
 ---
 
-Private tutor with 4 years' experience. A \nth{4}-year Cambridge PhD researcher, using analytical and computational methods to investigate energy storage mechanisms in Li-ion batteries, with professional experience using ML models for scientific discovery.
+Private tutor with 4 years' experience. Interested in analytical and computational methods for education and the environment.
