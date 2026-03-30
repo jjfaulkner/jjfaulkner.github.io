@@ -1,28 +1,28 @@
 ---
-title: Example Talk
+title: Quantitative operando Raman analysis of Li+-intercalated graphite
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+#event: Hugo Blox Builder Conference
+#event_url: https://example.org
 
-location: Hugo Blox Builder HQ
+location: National Graphene Institute
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: Booth Street East
+  city: Manchester
+  #region: CA
+  #postcode: '94305'
+  country: United Kingdom
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+#summary: A review of the 
+abstract: The Raman spectrum of graphene displays a distinctive dependance on charge carrier density (n) due to the non-adiabatic removal of the Kohn anomaly from the Γ point in the phonon dispersion and double resonance (DR) around the Dirac cones. Intercalation of Li+ between graphite layers is the key mechanism of energy storage in Li-ion batteries and, assuming perfect charge transfer, the stoichiometry of the fully intercalated state LiC6 corresponds to n = 6.36 x 1014 cm-2 based on unit cell volume. Previous electrochemical in-situ Raman studies have observed qualitative changes to the D, G and 2D modes during the intercalation process, but not provided a quantitative analysis. Here, we study the n dependance of the Raman spectrum of graphite. A semi-numerical model is developed to understand changes to the position of the G peak (ΔPos(G)) accounting for non-adiabatic corrections to density functional perturbation theory (DFPT) beyond the Dirac cones approximation, with an analytical model used to estimate scattering times from the full width at half maximum of the G peak (FWHM(G)) throughout all stages of Li+ intercalation. Electrochemical data are used to calculate n. These results offer new insight for understanding the Raman spectrum of graphite and the real-time formation of graphite intercalation compounds (GICs), paving the way for applications in Li-ion battery anodes and super-capacitors. This is achieved by providing new insight on ion diffusion and formation of the solid-electrolyte interphase (SEI): key parameters for benchmarking electrochemical performance and degradation.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
-all_day: false
+date: '2025-01-22'
+#date_end: '2030-06-01T15:00:00Z'
+#all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+#publishDate: '2017-01-01T00:00:00Z'
 
 authors:
   - admin
@@ -36,13 +36,13 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
-links:
-  - type: code
-    url: https://github.com
-  - type: slides
-    url: https://slideshare.net
-  - type: video
-    url: https://youtube.com
+#links:
+#  - type: code
+#    url: https://github.com
+#  - type: slides
+#    url: https://slideshare.net
+#  - type: video
+#    url: https://youtube.com
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -56,8 +56,8 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-  - example
+#projects:
+#  - example
 ---
 
 > [!NOTE]
